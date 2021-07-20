@@ -292,7 +292,7 @@ a:hover, a:active {
 	margin-top: -45px;
 	margin-left: -45px;
 	overflow: visible;
-	background-image: url(/images/main_logo.png);
+	background-image: url(images/main_logo.png);
 	background-size: 91px 89px;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -319,7 +319,7 @@ a:hover, a:active {
 	bottom: 6px;
 	left: 50%;
 	margin-left: -22px;
-	background-image: url(/images/scroll_down@3x.png);
+	background-image: url(images/scroll_down@3x.png);
 	background-size: 20px 20px;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -378,7 +378,7 @@ a:hover, a:active {
 	font-size: 26px;
 	font-weight: normal;
 	color: #fff;
-	background-image: url(/images/img_cover.png);
+	background-image: url(images/img_cover.png);
 	background-repeat: repeat-x;
 	background-size: contain;
 	text-shadow: 0px 1px 2px #999;
@@ -851,21 +851,21 @@ a:hover, a:active {
 }
 .loction {
 	padding: 16px 5% 20px;
-	background-image: url(/images/loction@3x.png);
+	background-image: url(images/loction@3x.png);
 	background-size: 16px 16px;
 	background-repeat: no-repeat;
 	background-position: center top;
 }
 .emailBox {
 	padding: 16px 0px 20px 0px;
-	background-image: url(/images/mail@3x.png);
+	background-image: url(images/mail@3x.png);
 	background-size: 16px 16px;
 	background-repeat: no-repeat;
 	background-position: center top;
 }
 .telBox {
 	padding: 16px 0px 20px 0px;
-	background-image: url(/images/tel@3x.png);
+	background-image: url(images/tel@3x.png);
 	background-size: 16px 16px;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -873,7 +873,7 @@ a:hover, a:active {
 .contactBox a:link, .contactBox a:visited {
 	display: inline-block;
 	color: #505050;
-	background-image: url(/images/out_website@3x.png);
+	background-image: url(images/out_website@3x.png);
 	background-size: 16px 16px;
 	background-repeat: no-repeat;
 	background-position: left center;
@@ -1052,7 +1052,7 @@ a:hover, a:active {
 	left: 50%;
 	margin-top: -45px;
 	margin-left: -45px;
-	background-image: url(/images/main_logo.png);
+	background-image: url(images/main_logo.png);
 	background-size: 91px 89px;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1346,7 +1346,7 @@ a.detailPageLink:link, a.detailPageLink:visited {
 	display: block;
 	line-height: 36px;
 	color: #505050;
-	background-image: url(/images/out_website@3x.png);
+	background-image: url(images/out_website@3x.png);
 	background-size: 16px 16px;
 	background-repeat: no-repeat;
 	background-position: left center;
