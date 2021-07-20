@@ -89,7 +89,7 @@ html.fp-enabled,
 .fp-controlArrow.fp-prev {
     left: 0px;
     width: 70px;
-    background-image: url(../images/arrow_left@3x.png);
+    background-image: url(images/arrow_left@3x.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 70px 100px;
@@ -98,7 +98,7 @@ html.fp-enabled,
 .fp-controlArrow.fp-next {
     right: 0px;
     width: 70px;
-    background-image: url(../images/arrow_right@3x.png);
+    background-image: url(images/arrow_right@3x.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 70px 100px;
