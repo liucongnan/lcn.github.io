@@ -284,8 +284,8 @@ a:hover, a:active {
 	/*background-color: #002FA7;*/
 }
 .logoArea{
-	width: 91px;
-	height: 90px;
+	width: 200px;
+	height: 200px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -293,7 +293,7 @@ a:hover, a:active {
 	margin-left: -45px;
 	overflow: visible;
 	background-image: url(images/main_logo.png);
-	background-size: 91px 89px;
+	background-size: 200px 200px;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-user-select: none;
@@ -1045,15 +1045,15 @@ a:hover, a:active {
 	position: relative;
 }
 .bottomLogo {
-	width: 91px;
-	height: 89px;
+	width: 200px;
+	height: 200px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	margin-top: -45px;
 	margin-left: -45px;
 	background-image: url(images/main_logo.png);
-	background-size: 91px 89px;
+	background-size: 200px 200px;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-user-select: none;
