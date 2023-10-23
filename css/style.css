@@ -433,7 +433,7 @@ li > a:only-child:after {
 /*-- banner --*/
 
 .main-content {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(../images/banner.gif) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -449,14 +449,14 @@ li > a:only-child:after {
 }
 
 .main-content.inner {
-    background: url(../images/banner.jpg) no-repeat bottom;
+/*     background: url(../images/banner.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height: 48vw;
-    position: relative;
+    position: relative; */
 }
 
 .banner-info-wthree p {
