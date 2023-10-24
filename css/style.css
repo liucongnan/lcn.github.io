@@ -721,7 +721,7 @@ h3.tittle.two {
 
 .bottom-gd:hover span,
 .bottom-gd2-active span {
-    background: #fff0aa;
+    background: #fff;
     transition: 2s all;
     -webkit-transition: 2s all;
     -moz-transition: 2s all;
