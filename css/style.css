@@ -622,7 +622,7 @@ li > a:only-child:after {
     font-size: 15px;
     color: #666;
     letter-spacing: .5px;
-    line-height: 30px;
+    line-height: 12px;
 }
 
 .popup h2 {
